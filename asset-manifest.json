@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Houseplant-Haven-React-Frontend-Shopping-Application/static/css/main.5448c4a0.css",
+    "main.js": "/Houseplant-Haven-React-Frontend-Shopping-Application/static/js/main.9458c977.js",
+    "static/js/453.c59696d8.chunk.js": "/Houseplant-Haven-React-Frontend-Shopping-Application/static/js/453.c59696d8.chunk.js",
+    "static/media/landing-bg.jpg": "/Houseplant-Haven-React-Frontend-Shopping-Application/static/media/landing-bg.1cfad26a5269cb888b11.jpg",
+    "index.html": "/Houseplant-Haven-React-Frontend-Shopping-Application/index.html",
+    "main.5448c4a0.css.map": "/Houseplant-Haven-React-Frontend-Shopping-Application/static/css/main.5448c4a0.css.map",
+    "main.9458c977.js.map": "/Houseplant-Haven-React-Frontend-Shopping-Application/static/js/main.9458c977.js.map",
+    "453.c59696d8.chunk.js.map": "/Houseplant-Haven-React-Frontend-Shopping-Application/static/js/453.c59696d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5448c4a0.css",
+    "static/js/main.9458c977.js"
+  ]
+}
