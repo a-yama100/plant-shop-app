@@ -1,14 +1,14 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header/Header';
-import LandingPage from './pages/Landing/LandingPage'; // 後で作成予定
-import ProductList from './pages/ProductList/ProductList'; // 後で作成予定
-import ShoppingCart from './pages/ShoppingCart/ShoppingCart'; // 後で作成予定
+import LandingPage from './pages/Landing/LandingPage';
+import ProductList from './pages/ProductList/ProductList';
+import ShoppingCart from './pages/ShoppingCart/ShoppingCart';
 import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/plant-shop-app">
       <div className="App">
         <Header />
         <main className="main-content">

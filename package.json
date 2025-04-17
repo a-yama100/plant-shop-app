@@ -2,7 +2,7 @@
   "name": "plant-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://a-yama100.github.io/Houseplant-Haven-React-Frontend-Shopping-Application",
+  "homepage": "https://a-yama100.github.io/plant-shop-app",
   "dependencies": {
     "@reduxjs/toolkit": "^2.7.0",
     "@testing-library/dom": "^10.4.0",
